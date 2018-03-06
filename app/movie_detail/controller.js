@@ -5,7 +5,7 @@
 
         .config(['$routeProvider', function ($routeProvider) {
             $routeProvider.when('/subject/:id', {
-                templateUrl: 'movie_detail/movie_detail.html',
+                templateUrl: 'app/movie_detail/movie_detail.html',
                 controller: 'View2Ctrl'
             });
         }])
