@@ -1,0 +1,36 @@
+<h1 class="page-header">{{title}}</h1>
+<div class="list-group">
+    <a  class="list-group-item" ng-repeat="item in data.subjects" ng-href="#/subject/{{item.id}}">
+        <span class="badge">{{item.rating.stars}}</span>
+        <div class="media">
+            <div class="media-left media-middle">
+                <img class="media-object" width="80px" height="110px" ng-src="{{item.images.small}}" alt="...">
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">{{item.title}}</h4>
+                <p>
+                    <span>导演:</span>
+                    <span ng-repeat="people in item.directors">
+                        {{people.name }}
+                        <span ng-if="!$last">、</span>
+                    </span>
+                </p>
+                <p>
+                    <span>类型:</span>
+                    <span>{{item.genres.join("、")}}</span>
+                </p>
+            </div>
+        </div>
+
+    </a>
+</div>
+<p ng-if="flag">总共:{{total}}条,{{currentPage}}/{{pageCount}}页</p>
+<nav ng-if="flag">
+    <ul class="pager">
+        <li><a ng-click="play(currentPage - 1)">Previous</a></li>
+        <li><a ng-click="play(currentPage + 1)">Next</a></li>
+    </ul>
+</nav>
+
+
+

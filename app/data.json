@@ -1,0 +1,214 @@
+{
+  "count": 3,
+  "start": 0,
+  "total": 26,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.5,
+        "stars": "45",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "title": "红海行动",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274761/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg",
+            "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg",
+            "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg"
+          },
+          "name": "张译",
+          "id": "1274761"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1354442/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg"
+          },
+          "name": "黄景瑜",
+          "id": "1354442"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1272245/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg",
+            "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg",
+            "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg"
+          },
+          "name": "海清",
+          "id": "1272245"
+        }
+      ],
+      "collect_count": 268869,
+      "original_title": "红海行动",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1275075/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg",
+            "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg",
+            "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg"
+          },
+          "name": "林超贤",
+          "id": "1275075"
+        }
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514175916.jpg",
+        "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514175916.jpg",
+        "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514175916.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26861685/",
+      "id": "26861685"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 3.1,
+        "stars": "15",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "title": "闺蜜2",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1023827/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48497.jpg",
+            "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48497.jpg",
+            "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48497.jpg"
+          },
+          "name": "薛凯琪",
+          "id": "1023827"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1274316/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31663.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31663.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p31663.jpg"
+          },
+          "name": "陈意涵",
+          "id": "1274316"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1257882/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1425652900.34.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1425652900.34.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1425652900.34.jpg"
+          },
+          "name": "张钧甯",
+          "id": "1257882"
+        }
+      ],
+      "collect_count": 625,
+      "original_title": "閨蜜2之單挑越南黑幫",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274280/",
+          "avatars": {
+            "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5139.jpg",
+            "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5139.jpg",
+            "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5139.jpg"
+          },
+          "name": "黄真真",
+          "id": "1274280"
+        }
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514909788.jpg",
+        "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514909788.jpg",
+        "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514909788.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25856453/",
+      "id": "25856453"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.1,
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "动作",
+        "犯罪"
+      ],
+      "title": "唐人街探案2",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274388/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356403251.95.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356403251.95.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356403251.95.jpg"
+          },
+          "name": "王宝强",
+          "id": "1274388"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1336305/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg"
+          },
+          "name": "刘昊然",
+          "id": "1336305"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1274979/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518431956.11.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518431956.11.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1518431956.11.jpg"
+          },
+          "name": "肖央",
+          "id": "1274979"
+        }
+      ],
+      "collect_count": 255311,
+      "original_title": "唐人街探案2",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1274763/",
+          "avatars": {
+            "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469073193.92.jpg",
+            "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469073193.92.jpg",
+            "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1469073193.92.jpg"
+          },
+          "name": "陈思诚",
+          "id": "1274763"
+        }
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.jpg",
+        "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.jpg",
+        "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26698897/",
+      "id": "26698897"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}
